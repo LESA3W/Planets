@@ -1,0 +1,23 @@
+body {
+    background-image: url("assets/space.jpg");
+    justify-content: center;
+}
+
+#moon {
+    justify-content: left;
+    width: 220px;
+    padding-top: 230px;
+}
+
+
+#earth {
+    justify-content: center;
+    width: 320px;
+    padding-top: 230px;
+}
+
+#mars {
+    justify-content: right;
+    width: 400px;
+    padding-top: 230px;
+}
